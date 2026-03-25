@@ -95,16 +95,7 @@ Melalui project ini, saya mempelajari beberapa hal penting:
 ## 🚀 Tech Stack
 - Python
 - SQL
-- PostgreSQL / MySQL
+- PostgreSQL
+- Docker
 - Pandas
 
----
-
-## 📂 Project Structure
-```bash
-├── extract/
-├── validation/
-├── transform/
-├── load/
-├── notebooks/
-└── README.md
